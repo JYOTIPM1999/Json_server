@@ -50,6 +50,16 @@
       "name": "Pants",
       "price": 100,
       "id": 3
+    },
+    {
+      "name": "mobile",
+      "price": 30,
+      "id": 4
+    },
+    {
+      "name": "utkarsh",
+      "price": 30,
+      "id": 5
     }
   ],
   "hospitals": [
