@@ -12,21 +12,6 @@ npm install
 
 Now you are ready to deploy to Heroku:
 
-```sh
-# Login with your Heroku account
-heroku login
-
-# Create the project
-heroku create your-api-project-name
-
-# Deploy to Heroku
-git push heroku master
-```
-
-Test your API by running:
-
-```sh
-heroku open
 ```
 
 ## Editing the initial data
